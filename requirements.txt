@@ -1,0 +1,5 @@
+scikit-learn >= 3.5
+plotly
+pillow
+opencv-python
+pickle
