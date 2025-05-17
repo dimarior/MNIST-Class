@@ -1,4 +1,4 @@
-scikit-learn >= 3.5
+scikit-learn
 plotly
 pillow
 opencv-python
